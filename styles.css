@@ -3,5 +3,7 @@ div{
 	position:center;
 	border:2px black solid;
 	background-color:lightblue;
-	
+}
+p{
+	text-align:center;
 }
